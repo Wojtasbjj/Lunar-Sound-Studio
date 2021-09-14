@@ -15,7 +15,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lunar Sound Studio</title>
-    <!-- <link rel="stylesheet" href="css/style.css"> -->
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/style.css">
     <?php wp_head(); ?>
 </head>
@@ -201,11 +200,6 @@
                 <div class="copy">
                     <p>© 2021 All rights Reserved. Michał Kornaga</p>
                 </div>
-                <!-- <div class="socials">
-                    <a href="#"><img src="wp-content/themes/lunartheme/assets/socials//ig.svg" alt="Instagram logo"></a>
-                    <a href="#"><img src="wp-content/themes/lunartheme/assets/socials/fb.svg" alt="Facebook logo"></a>
-                    <a href="#"><img src="wp-content/themes/lunartheme/assets/socials//youtube.svg" alt="Youtube logo"></a>
-                </div> -->
             </div>
             <div class="by">
                 <a href="https://wojciechgajda.pl/" target="_blank">Made by: Wojciech Gajda</a>
