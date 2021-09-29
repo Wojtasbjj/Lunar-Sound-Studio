@@ -5,5 +5,4 @@ else:
     get_template_part('content');
 endif;
     ?>
-<!-- <?php get_template_part('content') ?> -->
 <?php get_footer() ?>

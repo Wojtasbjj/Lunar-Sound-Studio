@@ -10,8 +10,6 @@
             </div>
         </div>
     </section>
-    
-    <!-- <script src="js/main.js"></script> -->
     <script>
         const openBtn = document.getElementById("nav-cta");
 const navi = document.getElementById("navigation");
